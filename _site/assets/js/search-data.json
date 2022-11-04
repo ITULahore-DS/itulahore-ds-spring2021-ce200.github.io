@@ -1,0 +1,62 @@
+{"0": {
+    "doc": "Page of Fame",
+    "title": "Students",
+    "content": "Best Students of Data Structures and Algorithms CE . ",
+    "url": "http://localhost:4000/famepage/#students",
+    "relUrl": "/famepage/#students"
+  },"1": {
+    "doc": "Page of Fame",
+    "title": "Top 3 Performers",
+    "content": " ",
+    "url": "http://localhost:4000/famepage/#top-3-performers",
+    "relUrl": "/famepage/#top-3-performers"
+  },"2": {
+    "doc": "Page of Fame",
+    "title": "Page of Fame",
+    "content": "| ",
+    "url": "http://localhost:4000/famepage/",
+    "relUrl": "/famepage/"
+  },"3": {
+    "doc": "Data Structures and Algorithms CE",
+    "title": "Spring 2021 - CE200 - DSA",
+    "content": " ",
+    "url": "http://localhost:4000/#spring-2021---ce200---dsa",
+    "relUrl": "/#spring-2021---ce200---dsa"
+  },"4": {
+    "doc": "Data Structures and Algorithms CE",
+    "title": "Data Structures and Algorithms",
+    "content": "In this course, students will learn about the correct programming structures, abstractions and algorithms that are necessary for improving the efficiency and scalability of a computer program. Topics will include data structures, learning about algorithmic complexity. Each topic will be augmented by a programming task that demonstrates the use of algorithms and data-structures. ",
+    "url": "http://localhost:4000/#data-structures-and-algorithms",
+    "relUrl": "/#data-structures-and-algorithms"
+  },"5": {
+    "doc": "Data Structures and Algorithms CE",
+    "title": "Data Structures and Algorithms CE",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#staff",
+    "relUrl": "/staff/#staff"
+  },"7": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"8": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "| ",
+    "url": "http://localhost:4000/staff/",
+    "relUrl": "/staff/"
+  }
+}
